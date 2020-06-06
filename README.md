@@ -1,4 +1,4 @@
-# Help Desk
+# [Overlay Expert](https://overlay.expert) Help Desk
 
 ## General troubleshooting tips
 
