@@ -1,0 +1,5 @@
+parser: "markdown"
+proseWrap: "always"
+tabWidth: 2
+semi: false
+singleQuote: true
