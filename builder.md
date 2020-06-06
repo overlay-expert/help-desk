@@ -4,21 +4,21 @@
 
 ### Alerts and how to add them to your overlay
 
-From the Builder, create a new layer, and then under Layer Settings, expand the
-Alerts section. Once there, change the Type to **Event-based** and then
+From the Builder, create a new layer, and then under _Layer Settings_, expand
+the _Alerts section_. Once there, change the Type to **Event-based** and then
 configure your alert.
 
-The Show time is the amount of time in milliseconds the alert will show. Start
-with a Show time of `5000`-`10000` ms (or 5-10 seconds).
+The _Show time_ is the amount of time in milliseconds the alert will show. Start
+with a _Show time_ of `5000`-`10000` ms (or 5-10 seconds).
 
-The Slow-mode time will cause alerts that follow a previous alert within this
+The _Slow-mode_ time will cause alerts that follow a previous alert within this
 time period to be ignored. Set this to `0` ms.
 
 To add the text to your layer specific to the event, such as the follower's name
-or resubscribe months, expand the Content section and under Layer Text Groups,
-click on Add new a new text group or edit an existing text group. Under Text
-Group Setting and the Alert category, dynamic items specific to the alert event
-you have configured will be available to choose.
+or resubscribe months, expand the _Content section_ and under _Layer Text
+Groups_, click on _Add new a new text group_ or _edit an existing text group_.
+Under _Text Group Setting_ and the _Alert_ category, dynamic items specific to
+the alert event you have configured will be available to choose.
 
 #### Test commands
 
@@ -124,5 +124,3 @@ If you still have issues, please seek additional support.
 
 URL widgets use inline frame elements (or `<iframe>`) and Streamlabs has decided
 not to allow Alert Boxes to run in `<iframe>`s.
-
-Better integration with Stream Labs is coming soon.
