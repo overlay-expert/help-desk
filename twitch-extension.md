@@ -4,12 +4,11 @@
 
 ### Twitch Extensions and how to activate them
 
-Are you a Streamer? Check out the video to learn more about Extensions and how
-to activate them!
+Are you a Streamer? See [here](https://www.twitch.tv/p/extensions) to learn more
+about Extensions and how to activate them!
 
-<video controls="true" poster="https://www.twitch.tv/p/assets/videos/poster/extensions.png">
-  <source src="https://www.twitch.tv/p/assets/videos/extensions.mp4" type="video/mp4">
-</video>
+[![Learn more about Extensions and how
+to activate them!](https://www.twitch.tv/p/assets/videos/poster/extensions.png)](https://www.twitch.tv/p/extensions)
 
 ---
 
@@ -17,7 +16,7 @@ to activate them!
 
 ### Why doesn't my overlay show on mobile (or other platform)?
 
-<video controls="true" src="https://video.twimg.com/ext_tw_video/1238600612893331457/pu/vid/640x1280/ogn7wA-K-3pHbScL.mp4" muted="true" autoplay="true" loop="true" style="width:25%; float:right; padding-left:1rem;"></video>
+<img alt="Mobile extension view" src="assets/mobile-extension-view.gif" style="width:25%; float:right; padding-left:1rem;">
 
 Twitch determines the capabilities of extensions on the different platforms.
 
