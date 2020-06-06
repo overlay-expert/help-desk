@@ -42,7 +42,7 @@ on mobile and other platforms, please:
 - [Tweet @Twitch and @TwitchDev](https://twitter.com/intent/tweet?text=Please%20allow%20overlay%20extensions%20to%20overlay%20the%20video%20on%20mobile%20%40Twitch%20%40TwitchDev%20%40OverlayExpert)
   ([en español](https://twitter.com/intent/tweet?text=Por%20favor%2C%20permitan%20Extensiones%20de%20Overlays%20como%20%40OverlayExpert%20sobreponese%20al%20video%20reproductor%20en%20dispositivos%20m%C3%B3viles%20%40Twitch%20%40TwitchDev%20%40TwitchES))
 
-<div style="clear:both"></div>
+---
 
 ### Is it normal that the viewer must always unmute the overlay?
 
