@@ -16,6 +16,24 @@ information about your issue.
 
 ## Contents
 
+### Walkthroughs
+
+#### English
+
+- [HOW TO GET OVERLAYS ON CONSOLE STREAM | 2020 XBOX & PS4 WITHOUT OBS OR STREAMLABS](https://www.youtube.com/watch?v=nG6rBTbhA5Y)
+- [HOW TO GET OVERLAYS ON YOUR CONSOLE TWITCH STREAM! | Overlay Expert](https://www.youtube.com/watch?v=ba0uG5jQ1ec)
+- [HOW TO use OVERLAYS on CONSOLE TWITCH STREAMS WITHOUT OBS in 2020](https://www.youtube.com/watch?v=N2GgZq30M7s)
+- [HOW TO use BE RIGHT BACK scenes WITHOUT a PC or CAPTURE CARD for CONSOLE STREAMING!](https://www.youtube.com/watch?v=ou7fJ2BnQPc)
+- [HOW TO ADD ALERTS TO YOUR CONSOLE STREAM | NO OBS | OVERLAY EXPERT](https://www.youtube.com/watch?v=1sWsEw9qH-c)
+- [HOW TO GET OVERLAYS ON CONSOLE STREAM | 2020 XBOX & PS4 | NO OBS OR STREAMLABS | OVERLAY EXPERT](https://www.youtube.com/watch?v=JO_xtNm-11Q)
+- [How to Get Amazing Overlays As a Console Streamer Without Using OBS or Streamlabs in 2020!](https://www.youtube.com/watch?v=Ssf9MxqdAI4)
+- [HOW TO GET YOUR CHAT TO OVERLAY ON YOUR STREAM | Overlay Expert](https://www.youtube.com/watch?v=vUcV9tqAicQ)
+
+#### Other languages
+
+- [_Español_ COMO PONER ALERTAS SONIDOS Y OVERLAYS PARA CONSOLAS GRATIS](https://www.youtube.com/watch?v=rdrfzlkF4rI)
+- [_Dutch_ Twitch stream overlay op console. Ps4 Xbox Alerts en Overlay zonder OBS. Overlay Expert](https://www.youtube.com/watch?v=A5cywG6Q83I)
+
 ### General
 
 #### FAQ
