@@ -2,8 +2,7 @@
 
 ## General troubleshooting tips
 
-If you are encountering a bug, please try these general troubleshooting tips
-before reaching out.
+If you are encountering a bug, please try these general troubleshooting tips.
 
 1. If you are using Internet Explorer or a version of Edge before 79, please
    [upgrade to Edge 79+](https://www.microsoft.com/edge).
@@ -11,6 +10,9 @@ before reaching out.
    please contact us.
 3. Ensure that your are signed into Overlay Expert.
 4. Sign out and sign back into Overlay Expert.
+
+If your issue still persist, browse through the contents below for potential
+information about your issue.
 
 ## Contents
 
@@ -47,16 +49,26 @@ before reaching out.
 - [Why can't I see URL widgets?](twitch-extension.md#why-cant-i-see-url-widgets)
 - [Is it possible to play music through the overlay?](twitch-extension.md#is-it-possible-to-play-music-through-the-overlay)
 
-## How do I submit a bug or request a feature?
+## How do I report a bug or request a feature?
 
-// todo
+If there is no information about your issue above, please see the currently
+tracked [bugs](https://github.com/overlay-expert/help-desk/labels/bug) and
+[features requests](https://github.com/overlay-expert/help-desk/labels/enhancement).
+For bugs and feature requests not listed there, please report an issue:
+
+1. Click on the [**Issues**](https://github.com/overlay-expert/help-desk/issues)
+   tab above.
+2. Review the list of reported issues and search for your issue.
+3. If your issue has not been reported, click the green **New Issue** button.
+4. Find the report type that best suits your issue and click the green **Get
+   started** button.
+5. Complete the report to the best of your ability. The more information you
+   provide, the faster we can resolve your issue. Once completed, click the
+   green **Submit new issue** button.
 
 ## How do I contact you?
 
 We'd love to get your feedback on your experience so far.
-
-If you are encountering a bug, or have a feature request, please see the
-currently tracked items first.
 
 If you encountering other issues, or have any questions, comments or
 suggestions, do not hesitate to contact us via
