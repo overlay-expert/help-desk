@@ -1,6 +1,6 @@
 # Builder
 
-## General
+## Getting started
 
 ### Alerts and how to add them to your overlay
 
@@ -41,7 +41,7 @@ All alerts are instantaneous with the exception of follow alerts, which may take
 up to 30 seconds to show. To prevent abuse, re-follows within the same stream
 are ignored.
 
-## Resources for building overlays
+### Resources for building overlays
 
 Here are some resources to help you get started building your overlays.
 
