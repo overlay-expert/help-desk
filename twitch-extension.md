@@ -16,7 +16,7 @@ to activate them!](https://www.twitch.tv/p/assets/videos/poster/extensions.png)]
 
 ### Why doesn't my overlay show on mobile (or other platform)?
 
-<img alt="Mobile extension view" src="assets/mobile-extension-view.gif" style="width:25%; float:right; padding-left:1rem;">
+<img alt="Mobile extension view" src="assets/mobile-extension-view.gif" align="right">
 
 Twitch determines the capabilities of extensions on the different platforms.
 
