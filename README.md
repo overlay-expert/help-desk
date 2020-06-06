@@ -16,7 +16,7 @@ information about your issue.
 
 ## Contents
 
-### Walkthroughs
+### Walkthrough videos from the community
 
 #### English
 
@@ -31,8 +31,8 @@ information about your issue.
 
 #### Other languages
 
-- [_Español_ COMO PONER ALERTAS SONIDOS Y OVERLAYS PARA CONSOLAS GRATIS](https://www.youtube.com/watch?v=rdrfzlkF4rI)
-- [_Dutch_ Twitch stream overlay op console. Ps4 Xbox Alerts en Overlay zonder OBS. Overlay Expert](https://www.youtube.com/watch?v=A5cywG6Q83I)
+- [[Español] COMO PONER ALERTAS SONIDOS Y OVERLAYS PARA CONSOLAS GRATIS](https://www.youtube.com/watch?v=rdrfzlkF4rI)
+- [[Dutch] Twitch stream overlay op console. Ps4 Xbox Alerts en Overlay zonder OBS. Overlay Expert](https://www.youtube.com/watch?v=A5cywG6Q83I)
 
 ### General
 
