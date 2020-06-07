@@ -45,7 +45,7 @@ information about your issue.
 #### Getting started
 
 - [Alerts and how to add them to your overlay](builder.md#alerts-and-how-to-add-them-to-your-overlay)
-- [Resources for building overlays](https://github.com/overlay-expert/help-desk/blob/chore/migrate/builder.md#resources-for-building-overlays)
+- [Resources for building overlays](builder.md#resources-for-building-overlays)
 
 #### FAQ
 
