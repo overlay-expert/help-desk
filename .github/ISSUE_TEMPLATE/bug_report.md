@@ -6,6 +6,13 @@ labels: ''
 assignees: ''
 
 ---
+<!--
+  Please use the following issue template to provide information about the bug
+  you are experiencing. The more information you provide, the faster your issue
+  can be resolved.
+
+  INCOMPLETE BUG REPORTS WILL BE IGNORED.
+-->
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -20,8 +27,12 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
+**Twitch channel**
+https://twitch.tv/username
+
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+[e.g. Builder, Extension Configuration Screen, etc.]
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
