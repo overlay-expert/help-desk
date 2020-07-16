@@ -9,7 +9,7 @@ exemptLabels:
   - enhancement
   - more-information-needed
 # Label to use when marking an issue as stale
-staleLabel: wont-fix
+staleLabel: stale
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: >
   This issue has been automatically marked as stale because:
