@@ -83,11 +83,3 @@ For bugs and feature requests not listed there, please report an issue:
 5. Complete the report to the best of your ability. The more information you
    provide, the faster we can resolve your issue. Once completed, click the
    green **Submit new issue** button.
-
-## How do I contact you?
-
-We'd love to get your feedback on your experience so far.
-
-If you encountering other issues, or have any questions, comments or
-suggestions, do not hesitate to contact us via
-[Discord](https://discord.gg/bhJThkq).
