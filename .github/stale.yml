@@ -14,7 +14,7 @@ staleLabel: stale
 markComment: >
   This issue has been automatically marked as stale because:
    - the issue template was not used and not enough information was provided
-   - the issue is already answered [here](https://github.com/overlay-expert/help-desk#contents) or in another issue
+   - the issue is already answered [here](https://github.com/overlay-expert/help-desk/issues/1) or in another issue
 
   Please provide more information, otherwise this issue will be closed if no
   further activity occurs.
