@@ -1,7 +1,7 @@
 # Number of days of inactivity before an issue becomes stale
 daysUntilStale: 2
 # Number of days of inactivity before a stale issue is closed
-daysUntilClose: 7
+daysUntilClose: 5
 # Issues with these labels will never be considered stale
 exemptLabels:
   - bug
@@ -19,4 +19,9 @@ markComment: >
   Please provide more information, otherwise this issue will be closed if no
   further activity occurs.
 # Comment to post when closing a stale issue. Set to `false` to disable
-closeComment: false
+closeComment: >
+  This issue has been automatically closed.
+
+  If you are still experiencing this issue, please reopen this issue and
+  provide more information. You may also reach out via
+  [Discord](https://overlay.expert/r/discord) for help.
